@@ -11,8 +11,8 @@ Repository contains:
 * Main algorithm
 * Alternative algorithm based on CNN
 * 3 records 
-  *  result video 
-  *  2x test records with masked licence plate by different colors (masked by unpublished algorithm which detects licence plates by contours on record, due to GDPR we cannot publish original streams)
+  *  result video (masked by unpublished algorithm which detects licence plates by contours on record, due to GDPR we cannot publish original streams)
+  *  2x test records with masked licence plate by different colors 
 * Background image
 
 ![GitHub Logo](/contours_with_detected.png)
